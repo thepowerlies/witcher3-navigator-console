@@ -78,7 +78,7 @@ Skellige:
     gotoSkelligeGhostShip - Where the ghost ship appears after midnight
     gotoSkelligeAxeTop - Where you race with others to reach the axe
 
---------------------﻿
+--------------------
 Kaer Morhen:
 
     gotoKaerMorhenRoom - Room with Yennefer (first scene of the game)

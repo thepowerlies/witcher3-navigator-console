@@ -2,8 +2,10 @@
 
 A Witcher 3 mod that adds exploration console commands
 
+[Nexus mods link](https://www.nexusmods.com/witcher3/mods/6448)
+
 ### introduction video
-[![Introduction video](https://img.youtube.com/vi/Fxz8LcgkI7M/0.jpg)](https://youtu.be/StTqXEQ2l-Y?t=35s "Introduction video")
+[![Introduction video](https://img.youtube.com/vi/Fxz8LcgkI7M/0.jpg)](https://youtu.be/Fxz8LcgkI7M "Introduction video")
 
 
 This mod requires console to be enabled to run.

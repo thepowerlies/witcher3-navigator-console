@@ -29,7 +29,7 @@ exec function gotoToussaintPrison(){
 }
 
 exec function gotoFable(){
-    teleportToussaint(2132.43, 1277.68, 191.75);
+    teleportToussaint(2603.9, 1500, 173.16);
 }
 
 exec function gotoFableTower(){
